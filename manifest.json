@@ -1,0 +1,15 @@
+{
+    "name": "Amazon price drop Notifier",
+    "version": "1.0",
+    "description": "An extension which notifies if price of a object drops ",
+    "manifest_version": 3,
+    "author": "Sushant Patel",
+    "action": {
+        "default_popup": "index.html"
+    },
+    "icons": {
+        "256": "/images/logo_256.png",
+        "128": "/images/logo_128.png",
+        "32": "/images/logo_32.png"
+    }
+}
